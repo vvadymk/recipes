@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "id": 2,
+      "name": "Pork Ragù over Creamy Polenta",
+      "category": "Comfort food",
+      "shortDesc": "Leftover sauce? Bring a pot of water to boil: It’s pasta night.",
+      "longDesc": "INGREDIENTS\nPork\n3 pounds skinless, boneless pork shoulder (Boston butt), cut into 3 pieces\nKosher salt and freshly ground black pepper\n1 tablespoon vegetable oil\n1 large onion, finely chopped\n6 garlic cloves, finely chopped\n2 tablespoons tomato paste\n½ cup full-bodied red wine\n1 28-ounce can whole peeled tomatoes\n4 sprigs thyme\n2 sprigs rosemary\n2 bay leaves\npolenta and assembly\nKosher salt\n1½ cups coarse polenta (not quick-cooking)\n¼ cup unsalted butter\n½ cup grated Parmesan (from about 2 ounces), plus more for serving\nFreshly ground black pepper\n½ cup chopped fresh parsley\nOlive oil (for drizzling)\n\nRECIPE PREPARATION\nPork\nSeason pork with salt and pepper. Heat oil in a large heavy pot over medium. Cook pork, turning often, until evenly browned, 10–12 minutes. Transfer to a platter and pour off pan drippings.\n\nWipe out any burned bits from pot, but leave the golden-brown pieces (doing this will keep the finished sauce from tasting bitter). Add onion and garlic to pot and cook, stirring occasionally, until onion is starting to brown and caramelize, 12–15 minutes. Add tomato paste and cook, stirring occasionally, until slightly darkened in color, 5–8 minutes.\n\nAdd wine and cook, scraping up any browned bits, until reduced by about half, 5–8 minutes.\n\nAdd tomatoes, crushing with your hands as you go, then add thyme, rosemary, and bay leaves; stir in 2 cups water. Add pork with any juices accumulated on the platter; season with salt and pepper.\n\nBring liquid to a boil, then reduce heat and simmer, partially covered, until pork is falling-apart tender, sauce is thickened (it will be thicker than a typical pasta sauce), and flavors have melded, 2½–3 hours.\n\nUsing 2 forks, break up pork into pieces or shred it (your choice!); taste and season with salt and pepper.\n\nPork can be cooked 5 days ahead. Let cool; cover and chill in sauce.\n\nPolenta and assembly\nBring 6 cups salted water to a boil in a large pot. Whisking constantly, gradually add polenta; reduce heat to medium-low. Cook, whisking often, until polenta is tender and creamy, 20–25 minutes (if polenta becomes too thick too soon, loosen mixture by adding more water and continue cooking). Add butter and ½ cup Parmesan to polenta and whisk until melted; season with salt and pepper.\n\nSpoon polenta into bowls or onto a platter and top with pork. Scatter parsley and more Parmesan over top and drizzle with oil.",
+      "createDate": "03.04.2020"
+    },
+    {
+      "id": 3,
+      "name": "Pumpkin soup",
+      "category": "Soups",
+      "shortDesc": "Whip up this easy pumpkin soup as a starter for a dinner party or a light supper when...",
+      "longDesc": "Heat 2 tbsp olive oil in a large saucepan, then gently cook 2 finely chopped onions for 5 mins, until soft but not coloured.\n\nAdd 1kg pumpkin or squash, cut into chunks, to the pan, then carry on cooking for 8-10 mins, stirring occasionally until it starts to soften and turn golden.\n\nPour 700ml vegetable or chicken stock into the pan and season with salt and pepper. Bring to the boil, then simmer for 10 mins until the squash is very soft.\n\nPour 150ml double cream into the pan, bring back to the boil, then purée with a hand blender. For an extra-velvety consistency you can pour the soup through a fine sieve. The soup can now be frozen for up to 2 months.\n\nTo make the croutons: cut 4 slices wholemeal seeded bread into small squares.\n\nHeat 2 tbsp olive oil in a frying pan, then fry the bread until it starts to become crisp.\n\nAdd a handful of pumpkin seeds to the pan, then cook for a few mins more until they are toasted. These can be made a day ahead and stored in an airtight container.\n\nReheat the soup if needed, taste for seasoning, then serve scattered with croutons and seeds and drizzled with more olive oil, if you want.",
+      "createDate": "03.04.2020"
+    }
+  ]
+}
